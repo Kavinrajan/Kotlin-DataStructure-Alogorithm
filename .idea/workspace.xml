@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb61aad3-51f4-4f55-9356-0eda931b6ff8" name="Changes" comment="Initial commit | DS Queue">
-      <change afterPath="$PROJECT_DIR$/src/main/data_structures/Stack.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/data_structures/StackTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="bb61aad3-51f4-4f55-9356-0eda931b6ff8" name="Changes" comment="DS Stack">
+      <change afterPath="$PROJECT_DIR$/src/main/data_structures/Dequeue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/data_structures/DequeueTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +49,34 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\Projects\Kotlin\DSA\bmaslakov\MyRepo\Kotlin-DSA\Kotlin-DSA\Kotlin-DSA\src\test\data_structure" />
     </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="data_structures" />
+    </key>
   </component>
-  <component name="RunManager" selected="Gradle.StackTest">
+  <component name="RunManager" selected="Gradle.DequeueTest">
+    <configuration name="DequeueTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;data_structures.DequeueTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="QueueTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -107,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.DequeueTest" />
         <item itemvalue="Gradle.StackTest" />
         <item itemvalue="Gradle.QueueTest" />
         <item itemvalue="Kotlin.MainKt" />
@@ -129,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669552059093</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DS Stack">
+      <created>1669649585993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669649585994</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +178,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit | DS Queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit | DS Queue" />
+    <MESSAGE value="DS Stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="DS Stack" />
   </component>
 </project>
