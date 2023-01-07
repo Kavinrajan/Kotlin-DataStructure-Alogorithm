@@ -1,6 +1,6 @@
 package data_structures
 
-import sorts.exch
+import algorithm.sorting.exch
 import java.util.*
 import kotlin.Comparator
 

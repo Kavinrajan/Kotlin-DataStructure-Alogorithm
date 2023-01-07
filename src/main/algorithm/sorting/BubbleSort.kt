@@ -1,4 +1,4 @@
-package sorts
+package algorithm.sorting
 
 /**
  * Bubble sort is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares

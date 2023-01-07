@@ -1,4 +1,4 @@
-package sorts
+package algorithm.sorting
 
 /**
  * Shell-Sort, also known as Shell sort or Shell's method, is an in-place comparison sort.

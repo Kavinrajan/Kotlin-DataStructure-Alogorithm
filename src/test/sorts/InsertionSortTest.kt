@@ -1,5 +1,7 @@
 package sorts
 
+import algorithm.sorting.InsertionSort
+
 /**
  * Insertion sort iterates, consuming one input element each repetition, and growing a sorted output list.
  * Each iteration, insertion sort removes one element from the input data, finds the location it belongs within

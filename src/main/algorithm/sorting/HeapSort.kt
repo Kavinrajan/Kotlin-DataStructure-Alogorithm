@@ -1,4 +1,4 @@
-package sorts
+package algorithm.sorting
 
 import data_structures.PriorityQueue
 

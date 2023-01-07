@@ -1,4 +1,4 @@
-package sorts
+package algorithm.sorting
 
 fun <T> Array<T>.exch(i: Int, j: Int) {
     val tmp = this[i]

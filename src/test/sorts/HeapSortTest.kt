@@ -1,5 +1,7 @@
 package sorts
 
+import algorithm.sorting.HeapSort
+
 /**
  * Heap sort is and in-lace algorithm
  * Typically 2 -3 times slower than well-implemented Quick Sort.

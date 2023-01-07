@@ -1,5 +1,7 @@
 package sorts
 
+import algorithm.sorting.ShellSort
+
 /**
  *  Algorithm:
  *

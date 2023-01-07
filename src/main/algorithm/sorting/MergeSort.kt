@@ -1,4 +1,4 @@
-package sorts
+package algorithm.sorting
 
 /**
  * Invented in 1945 by John von Neumann, merge sort is an efficient algorithm using the divide and conquer approach

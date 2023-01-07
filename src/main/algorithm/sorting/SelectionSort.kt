@@ -1,4 +1,4 @@
-package sorts
+package algorithm.sorting
 
 /**
  * The Selection sort algorithm sorts an array by repeatedly finding the minimum element ( Considering ascending order ) from
